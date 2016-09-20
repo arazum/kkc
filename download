@@ -1,0 +1,3 @@
+#! /bin/bash
+
+wget 'http://www.intratext.com/IXT/SCR0001/_INDEX.HTM' -O toc.html && ./download.py
