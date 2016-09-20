@@ -11,12 +11,12 @@ import re
 JSON_FORMAT = 'json/{}'
 OUTPUT_FILE = 'output.tex'
 
-HEAD_TEXT = r'''\documentclass[11pt]{book}
+HEAD_TEXT = r'''\documentclass[11pt]{report}
 
 \usepackage[croatian]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{times}
-\usepackage{hyperref}
+\usepackage[hyperindex=true]{hyperref}
 
 \setlength\parindent{0pt}
 \setcounter{secnumdepth}{-2}
