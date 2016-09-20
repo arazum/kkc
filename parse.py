@@ -13,9 +13,6 @@ JSON_FORMAT = 'json/{}'
 TRANSLATION = {13: None, 160: 32}
 
 
-codes = os.listdir(HTML_FORMAT.format(''))
-
-
 def parse(code):
     doc = pq(filename=HTML_FORMAT.format(code))
     pars = doc('body > table:nth-child(6) > tr > td p')
@@ -54,6 +51,8 @@ def parse(code):
 
     print code
 
+
+codes = os.listdir(HTML_FORMAT.format(''))
 
 processes = []
 

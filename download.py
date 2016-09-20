@@ -12,11 +12,6 @@ PART_FORMAT = 'orig/{}'
 URL_FORMAT = 'http://www.intratext.com/IXT/SCR0001/_{}'
 
 
-doc = pq(filename=TOC_FILE)
-links = doc('body > table:nth-child(5) > tr > td > font > ul a')
-hrefs = links.map(lambda i, e: pq(e).attr('href'))
-
-
 def download(href):
     code = re.match('_P(..?)\.HTM', href).group(1).zfill(2)
     filename = PART_FORMAT.format(code)
@@ -38,6 +33,10 @@ def download(href):
 
     print code
 
+
+doc = pq(filename=TOC_FILE)
+links = doc('body > table:nth-child(5) > tr > td > font > ul a')
+hrefs = links.map(lambda i, e: pq(e).attr('href'))
 
 processes = []
 

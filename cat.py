@@ -7,6 +7,7 @@ import os
 import codecs
 import re
 
+
 JSON_FORMAT = 'json/{}'
 OUTPUT_FILE = 'output.tex'
 
@@ -74,6 +75,7 @@ def get_numbers(text, start):
             start += 1
 
     return spans
+
 
 codes = sorted(os.listdir(JSON_FORMAT.format('')))
 
