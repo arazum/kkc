@@ -1,3 +1,3 @@
 #! /bin/bash
 
-./parse.py && ./cat.py && latexmk output -pdf
+mkdir -p json && ./parse.py && ./cat.py && latexmk output -pdf

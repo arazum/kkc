@@ -1,0 +1,568 @@
+diff -ur orig/3T html/3T
+--- orig/3T	2016-09-20 12:59:04.756773164 +0200
++++ html/3T	2016-09-20 13:11:34.556785320 +0200
+@@ -47,7 +47,7 @@
+ 
+ <p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>POSLANJE APOSTOLA</p>
+ 
+-<p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>upravo znaci grcka rijec <i>apostoloi</i>). U njima nastavlja on svoje
++<p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>858 Isus je Ocev poslanik. Od pocetka svoje sluzbe, on "pozove koje sam htjede i ustanovi Dvanaestoricu da budu s njim i da ih salje propovijedati" (<i>Mk</i> 3, 13-14). Od tada ce oni biti njegovi poslanici (to upravo znaci grcka rijec <i>apostoloi</i>). U njima nastavlja on svoje
+ poslanje: &quot;Kao sto mene posla Otac, tako i ja saljem vas.&quot; (<i>Iv</i>
+ 20,21). Njihova je sluzba nastavak njegova poslanja: &quot;Tko vas prima, mene
+ prima&quot;, rekao je Dvanaestorici (<i>Mt</i> 10,40). </p>
+@@ -122,4 +122,4 @@
+ <h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+ </TD></TR></TABLE></h2><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P3S.HTM>Previous</a></b> - <b><a href=__P3U.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+diff -ur orig/68 html/68
+--- orig/68	2016-09-20 13:00:11.260774242 +0200
++++ html/68	2016-09-20 13:14:16.380787943 +0200
+@@ -45,9 +45,32 @@
+ crkvenih cina; stoga, odrjesenje od njih, po crkvenom pravu, mogu podijeliti
+ samo papa, mjesni biskup ili od njih ovlasteni svecenici.U slucaju smrtne
+ opasnosti, svaki svecenik, pa i neovlasteni za ispovijedanje, moze odrijesiti
+-od svakoga grijeha </p>
++od svakoga grijeha i svakog izopcenja.
++1464 Svecenici trebaju poticati vjernike da pristupaju sakramentu Pokore, i
++trebaju biti vazda pripravni da slave ovaj sakramenat kad god to vjernici
++razlozno zatraze.
++1465 Slaveci sakramenat Pokore, svecenik vrsi sluzbu Dobrog Pastira koji
++trazi izgubljenu ovcu, Dobrog Samarijanca koji lijeci rane, Oca koji ceka
++izgubljenog sina te ga pri povratku prihvaca, kao i sluzbu pravednog Suca
++koji ne pravi razlike medju osobama i ciji je sud u isti mah pravedan i
++milosrdan. Rijecju, svecenik je znak i sredstvo Bozje milosrdne ljubavi
++prema gresniku.
++1466 Ispovjednik nije gospodar, vec sluzbenik Bozjeg prastanja. Sluzbenik
++ovog sakramenta treba se stoga sjediniti s Kristovom nakanom i ljubavlju. On
++mora imati prokusano znanje o krscanskom vladanju, iskustvo ljudskih
++stvarnosti, postovanje i obzirnost prema palima; treba ljubiti istinu, biti
++vjeran uciteljstvu Crkve te strpljivo voditi pokornika prema izlijecenju i
++punoj zrelosti. Treba za njega moliti i ciniti pokoru povjeravajuci ga
++milosrdju Gospodnjem.
++1467 Imajuci u vidu osjetljivost i velicinu ove sluzbe te duzno postovanje
++prema osobama, Crkva izjavljuje da je svaki svecenik koji prima ispovijedi
++obvezan, pod prijetnjom najstrozih kazni, obdrzavati posvemasnju tajnu o
++grijesima koje mu je pokornik ispovjedio.Nije mu dopusteno govoriti ni o
++onome sto je u ispovijedi saznao o zivotu pokornika. Ispovjedna tajna, koja
++ne dopusta izuzetaka, zove se "sakramentalni pecat", jer ono sto je pokornik
++ocitovao sveceniku ostaje "zapecaceno" sakramentom.</p>
+ 
+ <h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+ </TD></TR></TABLE></h2><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P67.HTM>Previous</a></b> - <b><a href=__P69.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+diff -ur orig/69 html/69
+--- orig/69	2016-09-20 13:00:11.268774243 +0200
++++ html/69	2016-09-20 13:16:29.656790104 +0200
+@@ -27,8 +27,35 @@
+ <TABLE border=0 cellPadding=0 cellSpacing=0 width=740 align=center><TR><TD><h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'></h2>
+ 
+ <h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>IX. Ucinci ovog sakramenta </h2>
++<p>1468 "Sva vrijednost Pokore jest u tome da u nama ponovno obnovi Bozju
++milost i s njime nas sjedini dubokom ljubavlju".Svrha i ucinak ovog
++sakramenta je, dakle, pomirenje s Bogom. Koji primaju sakramenat Pokore
++raskajana srca i s religioznim raspolozenjem, postizu "mir i spokoj savjesti
++zajedno s jakom duhovnom utjehom".Sakramenat pomirenja s Bogom donosi
++istinsko "duhovno uskrsnuce", vraca dostojanstvo i dobra zivota djece Bozje,
++od kojih je najdragocjenije Bozje prijateljstvo (<i>Lk</i> 15,32).
++1469 Ovaj nas sakramenat pomiruje s Crkvom. Grijeh nagriza ili prekida
++bratsko zajednistvo. Sakramenat Pokore ga popravlja ili ponovno uspostavlja.
++U tom smislu sakramenat ne ozdravlja samo onoga koji je opet primljen u
++crkveno zajednistvo, vec ima zivotvoran ucinak takodjer na zivot Crkve koja
++je zbog grijeha jednog od svojih clanova trpjela.Opet vracen ili utvrdjen u
++zajednistvu svetih, gresnik biva osnazen razmjenom duhovnih dobara izmedju
++svih zivih clanova Kristova Tijela bilo da su jos u stanju putnika bilo da
++su vec u nebeskoj domovini:
++Treba upozoriti da pomirenje s Bogom ima kao posljedicu, tako reci, i druga
++pomirenja koja lijece ostale lomove prouzrokovane grijehom: pokornik kome je
++oprosteno pomiruje se sa samim sobom u najintimnijoj dubini svoga bica, gdje
++dobiva natrag vlastitu unutarnju istinu; pomiruje se s bracom koju je na
++neki nacin uvrijedio i ranio; pomiruje se s Crkvom; pomiruje se sa citavim
++svemirom.
++1470. Povjeravajuci se Bozjem milosrdnom sudu, gresnik u ovom sakramentu na
++neki nacin anticipira sud kojemu ce biti podvrgnut na kraju ovozemaljskog
++zivota. Upravo sada, u ovom zivotu, ponudjen nam je izbor izmedju zivota i
++smrti, jer samo putem obracenja mozemo uci u Kraljevstvo, iz kojega teski
++grijeh iskljucuje.Obracajuci se Kristu pokorom i vjerom, gresnik prelazi iz
++smrti u zivot "i ne dolazi na sud" (<i>Iv</i> 5,24).</p>
+ 
+ <h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+ </TD></TR></TABLE></h2><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P68.HTM>Previous</a></b> - <b><a href=__P6A.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+diff -ur orig/6A html/6A
+--- orig/6A	2016-09-20 13:00:11.252774242 +0200
++++ html/6A	2016-09-20 13:20:22.488793878 +0200
+@@ -27,8 +27,69 @@
+ <TABLE border=0 cellPadding=0 cellSpacing=0 width=740 align=center><TR><TD><h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'></h2>
+ 
+ <h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>X. Oprosti </h2>
++<p>1471 Nauk i praksa oprosta u Crkvi usko su povezani s ucincima sakramenta
++Pokore.</p>
++<p>STO JE OPROST?</p>
++<p>"Oprost je otpustenje pred Bogom vremenite kazne za grijehe kojih je krivica
++vec izbrisana; to otpustenje vjernik, pravo raspolozen i uz odredjene
++uvjete, dobiva posredovanjem Crkve koja, kao posluziteljica otkupljenja,svojom vlascu dijeli i primjenjuje blago zasluga Krista i svetaca".
++"Oprost je djelomican ili potpun, vec prema tome da li od vremenite kazne za
++grijeh oslobadja djelomicno ili potpuno". Oprosti se mogu primijeniti zivima
++ili pokojnima.</p>
++<p>KAZNE ZA GRIJEH
++1472 Da bi se shvatili ovaj nauk i praksa Crkve, treba imati u vidu da
++grijeh ima dvostruku posljedicu. Teski grijeh nas lisava zajednistva s Bogom
++cineci nas time nesposobnima da postignemo vjecni zivot; to se lisavanje
++zove "vjecna kazna" za grijeh. S druge strane svaki grijeh, pa i laki,
++povlaci sa sobom nezdravu privrzenost uz stvorenja, koju treba cistiti bilo
++na ovoj zemlji bilo poslije smrti u stanju zvanom cistilistem. To ciscenje
++oslobadja od takozvane "vremenite kazne" za grijeh. Ove dvije kazne ne smiju
++se shvacati kao vrsta osvete koju Bog dosudjuje izvana, vec kao posljedice
++same naravi grijeha. Obracenje koje proizlazi iz goruce ljubavi moze postici
++potpuno ociscenje gresnika, tako da ne ostane vise nikakve kazne.
++1473 Oprostenje grijeha i obnova zajednistva s Bogom donose oprostenje
++vjecnih kazni za grijeh. Vremenite kazne za grijeh ipak ostaju. Strpljivo
++podnoseci patnje i svakovrsna iskusenja te, kada dodje taj dan,
++suceljavajuci se vedro sa smrcu, krscanin treba da ove vremenite kazne za
++grijeh nastoji primiti kao milost; mora se truditi da djelima milosrdja i
++ljubavi, te molitvom i raznim pokornickim cinima potpuno odlozi "starog
++covjeka" i obuce "novog covjeka".</p>
++<p>U ZAJEDNICI SVETIH</p>
++<p>1474 Krscanin koji nastoji da se ocisti od svakoga grijeha te se uz pomoc
++Bozje milosti posveti, nije sam. "Zivot svakoga Bozjeg djeteta cudesno je, u
++Kristu i po Kristu, povezan sa zivotom sve druge krscanske brace u
++nadnaravno jedinstvo Kristova otajstvenog Tijela, tako da skoro nastaje
++jedna misticna osoba."
++1475 U opcinstvu svetih, dakle, "medju vjernicima - onima koji su vec stigli
++u nebesku domovinu, onima koji svoje krivnje jos ispastaju u cistilistu ili
++onima koji su jos na ovozemnom putovanju - postoji trajna veza ljubavi i
++obilata razmjena svih dobara".U toj cudesnoj razmjeni svetost jednoga
++koristi drugima daleko vise od stete koju je grijeh jednoga mogao
++prouzrociti drugima. Tako obracanje opcinstvu svetih omogucuje raskajanom
++gresniku da bude u krace vrijeme i uspjesnije ociscen od kazna za grijeh.
++1476 Ta duhovna dobra opcinstva svetih nazivamo takodjer riznicom Crkve;
++"nije to skup dobara nalik na materijalno bogatstvo nagomilano kroz vjekove,
++nego neizmjerna i neiscrpljiva vrijednost koju imaju kod Boga ispastanje i
++zasluge Krista nasega Gospodina, prinesene za ljudski rod da bude oslobodjen
++od grijeha i unidje u zajednistvo s Ocem. Dakle, u Kristu Otkupitelju nalaze
++se u izobilju zadovoljstine i zasluge njegova otkupljenja".
++1477 "Jednako tako toj riznici pripada i vrijednost doista neogranicena,
++neizmjerljiva i uvijek nova koju kod Boga imaju molitve i dobra djela
++blazene Djevice Marije i svih svetaca koji su se, slijedeci po njegovoj
++milosti stope Krista Gospodina, posvetili i izvrsili poslanje koje im je
++Otac povjerio; i tako, radeci na svome spasenju, suradjivali su i na
++spasavanju svoje brace u jedinstvu otajstvenog Tijela".</p>
++<p>DOBITI BOZJI OPROST PO CRKVI</p>
++<p>1478 Oprost se dobiva po Crkvi koja se, snagom vlasti vezivanja i
++odrjesivanja, sto ju je dobila od Isusa Krista, zauzima za krscanina, te mu
++otvara riznicu zasluga Krista i svetaca da od Oca milosrdja dobije
++otpustenje vremenitih kazni za grijehe. Crkva time zeli ne samo doci u pomoc
++tom krscaninu, nego i potaknuti ga na djela poboznosti, pokore i ljubavi.
++1479 Buduci da su vjerni mrtvi na putu ciscenja takodjer clanovi istog
++opcinstva svetih, mozemo im pomoci, izmedju ostalog, stjecuci za njih
++oproste, da bi tako bili olaksani od vremenitih kazni za grijehe.</p>
+ 
+ <h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+ </TD></TR></TABLE></h2><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P69.HTM>Previous</a></b> - <b><a href=__P6B.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+diff -ur orig/6B html/6B
+--- orig/6B	2016-09-20 13:00:11.288774243 +0200
++++ html/6B	2016-09-20 13:21:47.416795255 +0200
+@@ -27,8 +27,50 @@
+ <TABLE border=0 cellPadding=0 cellSpacing=0 width=740 align=center><TR><TD><h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'></h2>
+ 
+ <h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>XI. Slavlje sakramenta Pokore </h2>
++<p>1480 Pokora je, kao i svi sakramenti, bogosluzni cin. Dijelovi slavlja
++redovito su ovi: pozdrav i blagoslov svecenikov, citanje Bozje rijeci radi
++prosvjetljenja savjesti i poticaja na skrusenost, poziv na kajanje; zatim
++ispovijed s priznanjem i ocitovanjem grijeha sveceniku; nalaganje i
++prihvacanje pokore; svecenikovo odrjesenje; iskazivanje hvale i zahvalnosti
++Bogu i otpust sa svecenikovim blagoslovom.
++1481 Bizantska liturgija poznaje vise obrazaca odrjesenja, molbene
++(deprekativne) naravi, koji izvanredno dobro izrazavaju otajstvo oprostenja.
++"Bog, koji je po proroku Natanu oprostio Davidu kad je priznao svoje
++grijehe, i Petru kad je gorko zaplakao, i preljubnici kada mu je suzama
++oprala noge, te farizeju i rasipniku, taj isti Bog neka ti oprosti, po meni
++gresniku, u ovom i u drugom zivotu, i neka te ne osudi kada se pojavis pred
++njegovim strasnim sudom - on koji je blagoslovljen u vijeke vjekova. Amen".
++1482 Sakramenat Pokore moze biti takodjer u okviru zajednickog slavlja, sa
++zajednickom pripravom za ispovijed i zajednickom zahvalom za primljeno
++oprostenje. U tom slucaju, osobna ispovijed grijeha i pojedinacno odrjesenje
++ukljuceni su u liturgiju Bozje rijeci, sa citanjima i homilijom, sa
++zajednickim ispitom savjesti, zajednickim trazenjem oprostenja, molitvom
++"Oce nas" te zajednickom zahvalom. Ovo zajednicko slavlje izrazava jasnije
++crkvenu (eklezijalnu) narav pokore. Ipak sakramenat Pokore, na koji god se
++nacin slavio, uvijek je liturgijski cin, dakle - eklezijalan i javan.
++1483 U slucaju teske potrebe, moze se pribjeci zajednickom slavlju pomirenja
++s opcom ispovijedi i skupnim odrjesenjem. Takva teska potreba moze se
++pojaviti kada prijeti neposredna smrtna opasnost, a jedan ili vise svecenika
++nemaju dovoljno vremena da saslusaju ispovijed svakoga pokornika. Teska
++potreba moze biti i onda kad, s obzirom na broj pokornika, nema na
++raspolaganju dovoljno ispovjednika da u primjereno vrijeme saslusaju, kako
++treba, pojedinacne ispovijedi, tako da bi pokornici, bez svoje krivnje, bili
++prisiljeni dugo vremena ostati bez sakramentalne milosti ili svete pricesti.
++U tom slucaju, za valjanost odrjesenja, vjernici moraju odluciti da ce u
++duznom vremenu svoje grijehe pojedinacno ispovijediti.Spada na dijecezanskog
++biskupa prosuditida li postoje trazeni uvjeti za skupno odrjesenje. Veliki
++broj vjernika prigodom velikih blagdana ili hodocasca ne predstavlja slucaj
++teske potrebe.
++1484 "Pojedinacna i cjelovita ispovijed i odrjesenje jesu jedini redoviti
++nacin na koji se vjernici pomiruju s Bogom i s Crkvom, osim ako fizicka ili
++moralna nemogucnost ispricavaju od takve ispovijedi".I to nije bez dubokih
++razloga. Krist djeluje u svakom sakramentu, i osobno se obraca svakom
++gresniku: "Sinko! Otpustaju ti se grijesi" (<i>Mk</i> 2,5). On je lijecnik koji se
++prigiba pred svakim pojedinim bolesnikom koji ga trebada ga izlijeci; on ga
++pridize i u bratsku zajednicu vraca. Dakle, osobna ispovijed jest
++najznakovitiji nacin pomirenja s Bogom i s Crkvom.</p>
+ 
+ <h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+ </TD></TR></TABLE></h2><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P6A.HTM>Previous</a></b> - <b><a href=__P6C.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+diff -ur orig/6C html/6C
+--- orig/6C	2016-09-20 13:00:11.336774244 +0200
++++ html/6C	2016-09-20 13:26:52.740800205 +0200
+@@ -27,8 +27,39 @@
+ <TABLE border=0 cellPadding=0 cellSpacing=0 width=740 align=center><TR><TD><h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'></h2>
+ 
+ <h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ukratko</h2>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><i>likuje Kristovu uceniku. </i></p>
++<p><i>1485 Na sam dan uskrsnuca, Gospodin Isus se ukaza apostolima i rece im:
++"Primite Duha Svetoga. Kojima otpustite grijehe, otpustaju im se; kojima
++zadrzite, zadrzani su im" (Iv 20,22-23).
++1486 Oprostenje grijeha pocinjenih poslije krstenja daje se posebnim
++sakramentom, koji zovemo sakramenat obracenja, ispovijedi, pokore ili
++pomirenja.
++1487 Tko grijesi nanosi uvredu Bozjoj casti i ljubavi, svome vlastitom
++dostojanstvu covjeka pozvanog da bude dijete Bozje i duhovnom zdravlju
++Crkve, kojoj svaki krscanin treba biti kamen zivi.
++1488 U svjetlu vjere, nema tezeg zla od grijeha, i nista nema gorih
++posljedica za same gresnike, za Crkvu i za sav svijet.
++1489 Vratiti se u zajednistvo s Bogom, nakon sto se grijehom izgubilo,
++moguce je samo po milosti Boga, koji je bogat milosrdjem i brizljiv za spas
++ljudi. Treba moliti za taj dragocjeni dar sebi i drugima.
++1490 Hod povratka Bogu, nazvan obracenje i kajanje, ukljucuje bol i
++odbojnost naspram pocinjenim grijesima, te cvrstu odluku ne grijesiti
++ubuduce. Obracenje se, dakle, odnosi na proslost i buducnost; hrani se nadom
++u Bozje milosrdje.
++1491 Sakramenat Pokore se sastoji od triju pokornikovih cina i od
++svecenikova odrjesenja. Cini pokornika jesu: kajanje, ispovijed ili
++ocitovanje grijeha sveceniku, te odluka da ce se izvrsiti zadovoljstina i
++djela zadovoljstine.
++1492 Kajanje (zove se i skrusenost) treba biti nadahnuto razlozima koji
++proizlaze iz vjere. Ako kajanje izvire iz prave ljubavi prema Bogu, zove se
++"savrsenim"; ako je pak utemeljeno na drugim razlozima, zove se
++"nesavrsenim".
++1493 Tko zeli postici pomirenje s Bogom i s Crkvom, mora sveceniku
++ispovijediti sve teske grijehe koje jos nije ispovijedio i kojih se sjeca
++nakon brizljivog ispita savjesti. Ispovijed lakih grijeha, iako nije nuzna,
++Crkva je ipak zivo preporucuje.
++1494 Svecenik nalaze pokorniku izvrsenje nekih cina "zadovoljstine" ili
++"pokore" da bi nadoknadio stetu nanesenu grijehom i povratio se ponasanju
++koje dolikuje Kristovu uceniku.</i></p>
+ 
+ <p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><i>1495mOprastati grijehe u Kristovo ime mogu
+ samo svecenici koji su od crkvene vlasti dobili ovlast odrjesivanja. </i></p>
+@@ -61,4 +92,4 @@
+ <h2 align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+ </TD></TR></TABLE></h2><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P6B.HTM>Previous</a></b> - <b><a href=__P6D.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+diff -ur orig/71 html/71
+--- orig/71	2016-09-20 13:00:09.608774216 +0200
++++ html/71	2016-09-20 13:29:25.528802682 +0200
+@@ -31,7 +31,7 @@
+ <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><i>1659mKaze sveti Pavao: &quot;Muzevi,
+ ljubite svoje zene kao sto je Krist ljubio Crkvu (...) </i><i>Otajstvo je to veliko! Ja smjeram na Krista i na Crkvu&quot; (Ef 5<b>.32).</b> </i></p>
+ 
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><i><b>16</b>60mZenidbenim savezom, muskarac i
++<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><i>1660mZenidbenim savezom, muskarac i
+ zena vezuju se u prisno zajednistvo zivota i ljubavi. Bog Stvoritelj zasnovao
+ je zenidbu i vlastitim je zakonima opskrbio. Po svojoj naravi zenidba je
+ odredjena za dobro zenidbenih drugova i za radjanje i odgoj djece. Medju
+@@ -71,4 +71,4 @@
+ <h1 align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+ </TD></TR></TABLE></h1><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P70.HTM>Previous</a></b> - <b><a href=__P72.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+diff -ur orig/7R html/7R
+--- orig/7R	2016-09-20 13:00:09.732774218 +0200
++++ html/7R	2016-09-20 13:31:19.848804535 +0200
+@@ -71,12 +71,12 @@
+ <p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>I umirit cemo pred njim srce svoje ako nas ono bilo u cemu osudjuje.
+ Jer Bog je veci od nasega srca i znade sve (<i>1 Iv</i> 3,19-20). </p>
+ 
+-<h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>1782 Covjek ima pravo djelovati po
++<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>1782 Covjek ima pravo djelovati po
+ savjesti i u slobodi, da bi osobno donosio moralne odluke. Covjeka se &quot;ne
+ smije siliti da radi protiv svoje savjesti, ali se ne smije ni prijeciti da
+-radi po svojoj savjesti, osobito u vjerskoj stvari&quot;.53 </h2>
++radi po svojoj savjesti, osobito u vjerskoj stvari&quot;.53 </p>
+ 
+ <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+ </TD></TR></TABLE></p><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P7Q.HTM>Previous</a></b> - <b><a href=__P7S.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+diff -ur orig/86 html/86
+--- orig/86	2016-09-20 13:00:09.664774216 +0200
++++ html/86	2016-09-20 13:33:14.552806395 +0200
+@@ -28,12 +28,12 @@
+ 
+ <h2 align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>LJUDSKA ZAJEDNICA </h2>
+ 
+-<h1 align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>1877 Poziv je covjecanstva da
++<p align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>1877 Poziv je covjecanstva da
+ ocituje sliku Bozju te se preobrazi u sliku jedinorodjenoga Sina Oceva. Taj
+ poziv poprima osobni izraz, jer je svatko pozvan da udje u Bozje blazenstvo;
+-ali tice se i ljudske zajednice kao cjeline. </h1>
++ali tice se i ljudske zajednice kao cjeline. </p>
+ 
+ <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b>
+ </TD></TR></TABLE></b></p><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P85.HTM>Previous</a></b> - <b><a href=__P87.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+diff -ur orig/8B html/8B
+--- orig/8B	2016-09-20 13:00:09.912774221 +0200
++++ html/8B	2016-09-20 13:36:40.272809730 +0200
+@@ -86,216 +86,13 @@
+ <p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><i>1925 Za<b> </b>opce dobro bitno je
+ troje: postovanje i promicanje temeljnih prava osobe; blagostanje ili razvitak
+ duhovnih i vremenitih drustvenih dobara; mir i sigurnost skupine i njezinih
+-clanova. </i>DESET ZAPOVIJEDI BOZJIH </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b>Knjiga Izlaska 20,2-17 </b></p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ja sam Gospodin, Bog tvoj, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>koji sam te izveo </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>iz zemlje egipatske, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>iz kuce ropstva. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Nemoj imati </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>drugih bogova uz mene. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne pravi sebi lika </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ni oblicja </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>bilo cega sto je gore na nebu, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ili dolje na zemlji, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ili u vodama </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>pod zemljom. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne klanjaj im se, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>niti im sluzi. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Jer ja, Gospodin, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Bog tvoj, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Bog sam ljubomoran. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Kaznjavam grijeh otaca </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>- na djeci do treceg </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>i cetvrtog koljena, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>a iskazujem milosrdje </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>tisucama koji me ljube </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>i vrse moje zapovijedi. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne uzimaj uzalud </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>imena Gospodina, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Boga svoga, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>jer Gospodin </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ne oprasta onome </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>koji uzalud izgovara </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ime njegovo. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Sjeti se da svetkujes </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>dan subotni. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Sest dana radi </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>i obavljaj sav svoj posao. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>A sedmoga je dana </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>subota, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>pocinak posvecen Gospodinu, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Bogu tvojemu. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Tada nikakva posla nemoj raditi: </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ni ti, ni sin tvoj, ni kci tvoja, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ni sluga tvoj, ni sluskinja tvoja, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ni zivina tvoja, niti dosljak </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>koji se nadje unutar tvojih vrata. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ta i Gospodin je sest dana </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>stvarao nebo, zemlju i more </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>i sve sto je u njima, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>a sedmoga je dana pocinuo. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Stoga je Gospodin blagoslovio </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>i posvetio dan subotni. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Postuj oca svoga i majku svoju, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>da imadnes dug zivot </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>na zemlji koju ti d&acirc; </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Gospodin, Bog tvoj. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne ubij! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne ucini preljuba! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne ukradi! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne svjedoci lazno </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>na bliznjega svoga! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne pozeli </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>kuce bliznjega svoga! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne pozeli </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>zene bliznjega svoga; </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ni sluge njegova, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ni sluskinje njegove, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>ni vola njegova, ni magarca, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>niti ista </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>sto je bliznjega tvoga! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b>Ponovljeni zakon 5,6-21</b> </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ja sam Gospodin, Bog tvoj, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>koji sam te izveo iz zemlje egipatske, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>iz kuce ropstva. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Nemoj imati drugih bogova uz mene </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne uzimaj uzalud </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>imena Gospodina, </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Boga svoga </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Dan subotni obdrzavaj </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>i svetkuj </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Postuj oca svoga i majku svoju </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne ubij! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne ucini preljuba! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne ukradi! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne svjedoci lazno </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>na bliznjega svoga. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne pozeli zene bliznjega svoga! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ne pozeli ista </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>sto je bliznjega tvoga. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b>Vjeronaucna formula</b> </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Ja sam Gospodin Bog tvoj: </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>1. Nemoj imati drugih </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>bogova uz mene. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>2. Ne izusti imena Gospodina </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Boga svoga uzalud. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>3. Spomeni se da svetkujes </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>dan Gospodnji. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>4. Postuj oca i majku (da dugo </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>zivis i dobro ti bude na zemlji) </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>5. Ne ubij! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>6. Ne sagrijesi bludno! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>7. Ne ukradi! </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>8. Ne reci lazna svjedocanstva (na bliznjega
+-svoga). </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>9. Ne pozeli zene bliznjega svoga. </p>
+-
+-<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>10. Ne pozeli nikakve tudje stvari.</p>
++clanova. 
++1926 Dostojanstvo ljudske osobe ukljucuje traganje za opcim dobrom. Svatko je duzan truditi
++se da pokrece i podupire ustanove koje sluze boljitku uvjeta ljudskog zivota.
++1927 Zadaca je drzave braniti i promicati opce dobro gradjenskog drustva. Opce dobro cijele
++ljudske obitelji zahtijeva organiziranje medjunarodnog drustva.</i></p>
+ 
+ <h2 align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+ </TD></TR></TABLE></h2><TABLE cellSpacing=0 cellPadding=0 width=740 border=0 align=center><TR><TD></TD></TR></TABLE><TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD><br clear=all><br><center><hr size=1 width=70%><font face=Verdana size=2><center><b><a href=__P8A.HTM>Previous</a></b> - <b><a href=__P8C.HTM>Next</a></b></center></font><hr size=1 width=70%><font size=1 face=Verdana><a href=_INDEX.HTM><b>Table of Contents</b></a> | <b>Words</b><font face=Arial>: <a href=_FA.HTM>Alphabetical</a> - <a href=_FF.HTM>Frequency</a> - <a href=_FI.HTM>Inverse</a> - <a href=_FL.HTM>Length</a> - <a href=_STAT.HTM>Statistics</a></font> | <b><a href=_AIUTO.HTM>Help</a></b> | <b><a href=http://www.intratext.com>IntraText Library</a></b></font></center></TD></TR></TABLE>
+ <TABLE border=0 cellPadding=0 cellSpacing=0 align=center width=740><TR><TD align=center><hr size=1><font face=Arial size=1>Best viewed with any browser at 800x600 or 768x1024 on Tablet PC<br><A HREF=http://www.intratext.com target=_blank>IntraText&reg</a> (V89) - Some rights reserved by <A href=http://www.eulogos.net target=_blank>&Egrave;ulogos SpA</A> - 1996-2007. Content in this page is licensed under a <a href=http://www.intratext.com/info/copyENG.htm target=_blank>Creative Commons License</a></font>
+-</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>
+\ No newline at end of file
++</TD></TR></TABLE><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-434897-1";urchinTracker();</script></BODY></HTML>

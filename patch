@@ -1,0 +1,3 @@
+#! /bin/bash
+
+mkdir -p html && cp -v orig/* html && cd html && patch -i ../manual.diff
